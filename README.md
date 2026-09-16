@@ -2,7 +2,7 @@
 
 ## 배포 URL
 
-> https://unji09.github.io/portfolio/
+> https://unji09.github.io/Codyssey-B1-1/
 
 ## 미리보기
 
